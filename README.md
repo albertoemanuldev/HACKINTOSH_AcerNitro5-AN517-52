@@ -23,6 +23,9 @@ EFI para Hackintosh Acer Nitro 5 AN517-52 para MacOs Monterrey
 - Ethernet
 - TrackPad and keyboard
 
+# Install OpenCore
+Install guide OpenCore: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites 
+
 # Agradecimentos: 
 - Agradeço ao Gabriel Luchina do canal: https://www.youtube.com/@UniversoHackintosh
 - Agradeço também ao grupo do Telegram do Hackintosh Brasil Oficial
