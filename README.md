@@ -22,3 +22,7 @@ All USB ports
 Wifi
 Ethernet
 TrackPad and keyboard
+
+Agradecimentos:
+Agradeço ao Gabriel Luchina do canal: https://www.youtube.com/@UniversoHackintosh
+Agradeço também ao grupo do Telegram do Hackintosh Brasil Oficial
